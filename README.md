@@ -1,6 +1,6 @@
 # walkman
 
-<img width="1917" height="953" alt="image" src="https://github.com/user-attachments/assets/06fbde4c-95b0-4d4f-b13a-f19b0baf195b" />  
+<img width="1917" height="960" alt="image" src="https://github.com/user-attachments/assets/b98440a5-2246-4b8f-bed7-5c13f3fd6560" />
 
 ---
 
